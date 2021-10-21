@@ -1,1 +1,2 @@
-module.exports = 'Las TIC en la comunicación y colaboración en línea'
+module.exports =
+  'Componente Formativo con un nombre extremadamente largo y extenso'
