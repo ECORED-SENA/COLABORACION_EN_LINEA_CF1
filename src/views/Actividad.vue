@@ -27,7 +27,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Quiz herramientas y plataformas colaborativas online
-        p.mb-4 Apropiar conocimientos de las herramientas de comunicación y colaboración en de los usuarios digitales para poder tener una identidad digital en procesos inmersivos como lo es el uso de las TIC.
+        p.mb-4 Apropiar conocimientos de las herramientas de comunicación y colaboración de los usuarios digitales para poder tener una identidad digital en procesos inmersivos como lo es el uso de las TIC.
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-left.align-items-center            
             .col-auto

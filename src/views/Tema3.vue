@@ -238,7 +238,7 @@
         .row.justify-content-center
           .col-md-10.mb-4.mb-md-0
             h4 Herramientas gubernamentales
-            p.mb-4 Las estrategias de un gobierno digital o e-Gobierno radican en mejorar las comunicaciones Estado - población - instituciones haciendo uso de las nuevas  tecnologías de información y comunicación y sacarles el mejor provecho en la generación de democracia, para agilizar trámites o promover la transparencia. Entre las herramientas del gobierno digital te podrás encontrar con:
+            p.mb-4 Las estrategias de un Gobierno digital o e-Gobierno radican en mejorar las comunicaciones Estado - población - instituciones haciendo uso de las nuevas  tecnologías de información y comunicación y sacarles el mejor provecho en la generación de democracia, para agilizar trámites o promover la transparencia. Entre las herramientas del Gobierno digital te podrás encontrar con:
 
             .row.justify-content-center
               .col-lg-12

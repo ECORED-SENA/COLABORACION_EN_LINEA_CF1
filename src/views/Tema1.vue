@@ -126,7 +126,7 @@
         .col-lg-9
           p.text-xl 
             span.text-normal La influencia de las TIC en la vida y la sociedad depende de lo que se realice con las nuevas tecnologías: 
-            span ¿alejas a los que tienes cerca y acercas a los que tienes lejos? 
+            span ¿Alejas a los que tienes cerca y acercas a los que tienes lejos? 
           //--.wrap-player
             audio(controls='')
               source(src='https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_5MG.mp3' type='audio/mpeg')
@@ -135,7 +135,7 @@
 
     #t_1_1.titulo-segundo
       h2  1.1  Características  y clasificación de las TIC
-    p.mb-5  Las tecnologías de información y comunicación poseen diferentes características que, por ser dinámicas y ágiles, hacen que los procesos comunicacionales entre las personas se hagan más fáciles; dentro de las más representativas se encuentran: 
+    p.mb-5  Las Tecnologías de Información y Comunicación poseen diferentes características que, por ser dinámicas y ágiles, hacen que los procesos comunicacionales entre las personas se hagan más fáciles; dentro de las más representativas se encuentran: 
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/d0LWVfvdPoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)

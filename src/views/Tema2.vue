@@ -252,10 +252,10 @@
             ul.lista-ul
               li
                 i.fas.fa-check
-                p <b>Alfabetización digital como competencia básica</b>: se debe garantizar que todas las personas logren aprender a utilizar de forma adecuada las herramientas tecnológicas que mejoran la calidad de vida.
+                p <b>Alfabetización digital como competencia básica</b>, se debe garantizar que todas las personas logren aprender a utilizar de forma adecuada las herramientas tecnológicas que mejoran la calidad de vida.
               li
                 i.fas.fa-check
-                p <b>Mejorar el aprovechamiento y el acceso a Internet</b>; para estar inmersos en los cambios digitales y ser parte del mundo digital se debe garantizar una conexión en todos los rincones del planeta, muchos países han adoptado medidas públicas de conexión a internet en parques, bibliotecas, colegios, universidades, lo que acerca a todas las posibilidades de ser parte de este nuevo fenómeno social para lograr una inclusión social completa.
+                p <b>Mejorar el aprovechamiento y el acceso a Internet</b>, para estar inmersos en los cambios digitales y ser parte del mundo digital se debe garantizar una conexión en todos los rincones del planeta, muchos países han adoptado medidas públicas de conexión a internet en parques, bibliotecas, colegios, universidades, lo que acerca a todas las posibilidades de ser parte de este nuevo fenómeno social para lograr una inclusión social completa.
               li
                 i.fas.fa-check
                 p <b>Ofrecer contenidos en internet que sean fáciles y accesibles</b>, la información debe ser simple y pensada para todo tipo de personas, edades, costumbres, etc., como eje social del conocimiento. 
@@ -284,7 +284,7 @@
               img(src="@/assets/curso/t2-i6.png", alt="personaje animado")
         .col-lg-9
           p.text-xl El mundo digital se puede explorar por medio de un dispositivo electrónico ya sea portátil o fijo que posea una conexión para explorar todo lo que esté al alcance y se quiera.  
-            span.text-normal La gran convergencia del uso masivo de dichos dispositivos inteligentes, en especial el uso de celulares como los smartphones, y la aparición de las redes de datos cada vez más veloces, hacen que todos los servicios de navegación en la red se puedan consumir en cualquier lugar y hora.
+            span.text-normal La gran convergencia del uso masivo de dichos dispositivos inteligentes, en especial el uso de celulares como los <i>smartphones</i>, y la aparición de las redes de datos cada vez más veloces, hacen que todos los servicios de navegación en la red se puedan consumir en cualquier lugar y hora.
           .wrap-player
             audio(controls='')
               source(src='@/assets/curso/navegacion_y_principios.wav' type='audio/mpeg')
@@ -431,7 +431,7 @@
           .row
             .col-md-6.mb-4.mb-md-0
               .h4 Correo Electrónico
-              p Comúnmente conocido por el anglicismo e-mail, es uno de los servicios más populares, su principal objetivo es el enviar y recibir información por medio de una casilla de correo, su ventaja es la inmediatez del servicio, el mensaje enviado basta solo segundos para que esté en su destino; para ello existen gratuitos y de pago, que radican en sus funcionalidades extendidas. Una dirección de e-mail está compuesta por el nombre o identificador que debe ser único, la arroba y el dominio a quién pertenece el servicio, este puede enviar o recibir todo tipo de información (sonido, texto, imagen, videos, animación).
+              p Comúnmente conocido por el anglicismo <i>e-mail</i>, es uno de los servicios más populares, su principal objetivo es el enviar y recibir información por medio de una casilla de correo, su ventaja es la inmediatez del servicio, el mensaje enviado basta solo segundos para que esté en su destino; para ello existen gratuitos y de pago, que radican en sus funcionalidades extendidas. Una dirección de <i>e-mail</i> está compuesta por el nombre o identificador que debe ser único, la arroba y el dominio a quién pertenece el servicio, este puede enviar o recibir todo tipo de información (sonido, texto, imagen, videos, animación).
             .col-md-6
               figure
                 img(src='@/assets/curso/t2-n1.png', alt='imagen decorativa')  
