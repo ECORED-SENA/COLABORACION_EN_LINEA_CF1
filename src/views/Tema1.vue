@@ -138,7 +138,7 @@
     p.mb-5  Las tecnologías de información y comunicación poseen diferentes características que, por ser dinámicas y ágiles, hacen que los procesos comunicacionales entre las personas se hagan más fáciles; dentro de las más representativas se encuentran: 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/d0LWVfvdPoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .row.mb-5
       .col-lg-7
