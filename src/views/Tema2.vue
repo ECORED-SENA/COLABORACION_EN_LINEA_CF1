@@ -287,7 +287,7 @@
             span.text-normal La gran convergencia del uso masivo de dichos dispositivos inteligentes, en especial el uso de celulares como los <i>smartphones</i>, y la aparición de las redes de datos cada vez más veloces, hacen que todos los servicios de navegación en la red se puedan consumir en cualquier lugar y hora.
           .wrap-player
             audio(controls='')
-              source(src='@/assets/curso/navegacion_y_principios.wav' type='audio/mpeg')
+              source(src='@/assets/curso/navegacion_y_principios.mp3' type='audio/mpeg')
               |  Your browser does not support the audio tag.
 
     .row.justify-content-center

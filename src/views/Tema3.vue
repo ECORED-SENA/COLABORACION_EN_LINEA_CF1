@@ -19,7 +19,7 @@
             span.text-normal pues la cultura digital permite acceder a muchos recursos, colaborar en espacios públicos y potenciar la inclusión y participación de un individuo como sociedad. 
           .wrap-player
             audio(controls='')
-              source(src='@/assets/curso/herramientas_y_plataformas.wav' type='audio/mpeg')
+              source(src='@/assets/curso/herramientas_y_plataformas.mp3' type='audio/mpeg')
               |  Your browser does not support the audio tag.
 
     
@@ -276,7 +276,7 @@
           p.text-xl Has terminado este proceso de formación en el cual podrás incorporar a tu vida las tecnologías de información y comunicación bajo las transformaciones de la sociedad actual, centradas en la comunicación y colaboración en línea. 
           .wrap-player
             audio(controls='')
-              source(src='@/assets/curso/end.wav' type='audio/mpeg')
+              source(src='@/assets/curso/elciudadano-digital.mp3' type='audio/mpeg')
               |  Your browser does not support the audio tag.
     br
 
